@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/re-squared/re-squared.github.io/blog/2021-08-26-welcome/index.md",
+  "source": "@site/blog/2021-08-26-welcome/index.md",
+  "title": "Welcome",
+  "description": "Coming soon.",
+  "date": "2021-08-26T00:00:00.000Z",
+  "formattedDate": "August 26, 2021",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "team",
+      "permalink": "/blog/tags/team"
+    }
+  ],
+  "readingTime": 0.01,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Re^2 Team",
+      "title": "Bringing Restaking to a Cross-Chain World",
+      "url": "https://github.com/re-squared",
+      "imageURL": "../static/img/icon.jpg",
+      "key": "team"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "team"
+    ],
+    "tags": [
+      "hello",
+      "team"
+    ]
+  },
+  "unlisted": false
+}

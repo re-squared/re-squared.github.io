@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://re-squared.github.io/blog</id>
+    <title>Re^2 Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://re-squared.github.io/blog"/>
+    <subtitle>Re^2 Blog</subtitle>
+    <icon>https://re-squared.github.io/img/icon.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://re-squared.github.io/blog/welcome</id>
+        <link href="https://re-squared.github.io/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coming soon.]]></summary>
+        <content type="html"><![CDATA[<p>Coming soon.</p>]]></content>
+        <author>
+            <name>Re^2 Team</name>
+            <uri>https://github.com/re-squared</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="team" term="team"/>
+    </entry>
+</feed>

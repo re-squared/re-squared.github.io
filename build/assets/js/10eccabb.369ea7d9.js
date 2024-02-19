@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresq=self.webpackChunkresq||[]).push([[232],{9616:e=>{e.exports=JSON.parse('{"label":"team","permalink":"/blog/tags/team","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
