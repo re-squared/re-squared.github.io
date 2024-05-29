@@ -279,8 +279,42 @@
       padding-left: 0;
     }
     
-  @media screen and (max-width: 479px) {
+  @media screen and (max-width: 680px) {
     .container {
       max-width: none;
+    }
+
+    .col-info {
+      flex-flow: column;
+    }
+
+    .info-content {
+      flex-flow: column;
+      text-align: center;
+      padding: 0px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+
+    .info-head {
+      margin-left: 0px;
+      margin-right: 0px;
+      width: 100%;
+    }
+
+    .info-body {
+      margin-right: 0px;
+      margin-bottom: 40px;
+      width: 90%;
+    }
+
+    .content-heading {
+      max-width: 100%;
+      text-align: center;
+    }
+
+    .compact {
+      margin-top: 40px;
+      margin-bottom: 40px;
     }
   }
